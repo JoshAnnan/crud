@@ -1,0 +1,12 @@
+{
+  "name": "Day-2",
+  "version": "1.0.0",
+  "description": "Mvc folders",
+  "main": "index.js",
+  "author": "Blessing Annan-Takyi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  }
+}
